@@ -1,3 +1,6 @@
 # omnidine-minIO
-# omnidine-minIO
-# omnidine-minIO
+
+### ทำการรันด้วย
+```
+docker compose up -d
+```
